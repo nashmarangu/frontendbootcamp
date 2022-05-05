@@ -1,0 +1,151 @@
+body {
+  line-height: 1.5;
+  font-family: Montserrat;
+}
+
+span {
+  color: orange;
+}
+
+.para2 {
+  color: #8f8f8f;
+}
+
+.nav1 {
+  padding-left: 0;
+}
+
+.navbar {
+  color: white;
+}
+
+.title {
+  background-color: #212529;
+  padding: 0 15% 5rem;
+}
+
+.heading1 {
+  color: white;
+  margin-top: 20%;
+}
+
+.para {
+  padding: 1.5rem 0;
+  line-height: 1.5;
+}
+
+.title-img {
+  padding-top: 1.5rem;
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+
+.nws {
+  padding: 5% 15%;
+  align-items: center;
+}
+
+.signup {
+  color: white;
+}
+
+.newsletter {
+  background-color: #0d6efd;
+}
+
+.news1 {
+  padding-left: 0;
+}
+
+.news2 {
+  padding-right: 0;
+}
+
+.feature {
+  padding: 7%;
+}
+
+.feature-box {
+  text-align: center;
+}
+
+.ficons {
+  font-size: 3rem;
+  color: #0d6efd;
+}
+
+.info {
+  background-color: #212529;
+}
+
+.info-content {
+  color: white;
+  padding-top: 3.5rem;
+}
+
+.infothings {
+  padding: 5% 15%;
+}
+
+.infoimg {
+  width: 100%;
+}
+
+.infoimg2 {
+  width: 90%;
+  text-align: center;
+  padding-left: 5rem;
+}
+
+.infothings2 {
+  padding: 5% 15%;
+}
+
+.info-content2 {
+  padding-top: 3.5rem;
+}
+
+.in-header {
+  text-align: center;
+}
+.instructors{
+  background-color: #0d6efd;
+  padding: 2% 15% 5%;
+  text-align: center;
+}
+.in-header{
+  padding: 3% 0 3%;
+  color: white;
+}
+
+.card{
+  text-align: center;
+}
+.pricing-col{
+padding: 3% 2%;
+}
+.accordion1{
+  padding: 2% 15% 5%;
+}
+.in-header2{
+  padding: 3% 0 3%;
+text-align: center;
+}
+.footer{
+  text-align: center;
+  padding: 5% 15%;
+  background-color: #212529;
+  color: white;
+  margin-bottom: 0;
+}
+@media (max-width: 1028px){
+  .title-img{
+    display: none;
+  }
+  .heading1{
+    text-align: center;
+    padding-top: 3%;
+  }
+}
